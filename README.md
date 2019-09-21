@@ -1,2 +1,0 @@
-# A0179741U_AWS_IOT
-AWS IOT project for NUS EE51111
